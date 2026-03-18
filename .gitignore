@@ -1,0 +1,4 @@
+.build/
+Coffee.app/
+*.o
+*.d
